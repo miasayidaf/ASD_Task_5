@@ -7,3 +7,25 @@
 	<windows.h>
 	<iostream>
 
+1519568068 source:e:\study\semester 4\std\asd_task_5\list.cpp
+	"list.h"
+	"player.h"
+
+1519559041 e:\study\semester 4\std\asd_task_5\list.h
+	<string>
+	<windows.h>
+	<iostream>
+
+1519568068 source:e:\study\semester 4\std\asd_task_5\main.cpp
+	"player.h"
+	"list.h"
+	<conio.h>
+	<iostream>
+
+1519558491 e:\study\semester 4\std\asd_task_5\player.h
+	"list.h"
+
+1519559041 source:e:\study\semester 4\std\asd_task_5\player.cpp
+	"player.h"
+	<ctime>
+
